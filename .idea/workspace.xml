@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9819115-a94e-40c0-a0f0-bf2957db7562" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aB5SxskpB9oIKOU3FHXuLisIhN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="TestesCases" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PreencherFormTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Aula6_Automacao" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestesCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="TestesCases" />
+      <option name="MAIN_CLASS_NAME" value="TestesCases.PreencherFormTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="Aula6_Automacao" />
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PreencherFormTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9819115-a94e-40c0-a0f0-bf2957db7562" name="Default Changelist" comment="" />
+      <created>1586196149267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586196149267</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="-906" key="#Unnamed" timestamp="1586212564219">
+      <screen x="60" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="617" y="-906" key="#Unnamed/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586212564219" />
+    <state x="474" y="-906" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586212578235">
+      <screen x="60" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="474" y="-906" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586212578235" />
+    <state x="749" y="-777" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586212543305">
+      <screen x="60" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="749" y="-777" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586212543305" />
+    <state width="1323" height="18" key="GridCell.Tab.0.bottom" timestamp="1586274872211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="18" key="GridCell.Tab.0.bottom/0.0.1366.728/60.-1080.1920.1040@0.0.1366.728" timestamp="1586274872211" />
+    <state width="1877" height="18" key="GridCell.Tab.0.bottom/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586219993098" />
+    <state width="1323" height="18" key="GridCell.Tab.0.center" timestamp="1586274872211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="18" key="GridCell.Tab.0.center/0.0.1366.728/60.-1080.1920.1040@0.0.1366.728" timestamp="1586274872211" />
+    <state width="1877" height="18" key="GridCell.Tab.0.center/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586219993098" />
+    <state width="1323" height="18" key="GridCell.Tab.0.left" timestamp="1586274872211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="18" key="GridCell.Tab.0.left/0.0.1366.728/60.-1080.1920.1040@0.0.1366.728" timestamp="1586274872211" />
+    <state width="1877" height="18" key="GridCell.Tab.0.left/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586219993098" />
+    <state width="1323" height="18" key="GridCell.Tab.0.right" timestamp="1586274872211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="18" key="GridCell.Tab.0.right/0.0.1366.728/60.-1080.1920.1040@0.0.1366.728" timestamp="1586274872211" />
+    <state width="1877" height="18" key="GridCell.Tab.0.right/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586219993098" />
+    <state x="521" y="-918" key="SettingsEditor" timestamp="1586218340696">
+      <screen x="60" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="521" y="-918" key="SettingsEditor/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586218340696" />
+    <state x="791" y="-858" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586212709891">
+      <screen x="60" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="791" y="-858" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586212709891" />
+    <state x="676" y="-299" key="run.anything.popup" timestamp="1586211634200">
+      <screen x="60" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="676" y="-299" key="run.anything.popup/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586211634200" />
+  </component>
+</project>
