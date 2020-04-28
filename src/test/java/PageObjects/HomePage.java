@@ -22,6 +22,18 @@ public class HomePage {
 
         }
 
+        public WebElement userNameTextField (){
+
+        return this.driver.findElement(By.xpath("//div[@class='centered']//input[@name='username']"));
+
+        }
+
+
+        public WebElement passwordTextField (){
+
+        return this.driver.findElement(By.tagName("password"));
+
+        }
 
 
 

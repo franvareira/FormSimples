@@ -11,8 +11,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -33,6 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FormSimples" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -43,7 +44,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.PreencherFormTest">
     <configuration name="PreencherFormTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Aula6_Automacao" />
       <useClassPathOnly />
@@ -59,6 +60,26 @@
       <option name="MAIN_CLASS_NAME" value="TestesCases.PreencherFormTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PreencherFormTest.popularForm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Aula6_Automacao" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestesCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="TestesCases" />
+      <option name="MAIN_CLASS_NAME" value="TestesCases.PreencherFormTest" />
+      <option name="METHOD_NAME" value="popularForm" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,6 +101,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.PreencherFormTest" />
+        <item itemvalue="JUnit.PreencherFormTest.popularForm" />
       </list>
     </recent_temporary>
   </component>
@@ -101,6 +123,11 @@
       <screen x="60" y="-1080" width="1920" height="1040" />
     </state>
     <state x="617" y="-906" key="#Unnamed/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586212564219" />
+    <state x="640" y="-911" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586804556912">
+      <screen x="60" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728/60.-1080.1920.1040@0.0.1366.728" timestamp="1586803200358" />
+    <state x="640" y="-911" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586804556912" />
     <state x="474" y="-906" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586212578235">
       <screen x="60" y="-1080" width="1920" height="1040" />
     </state>
@@ -109,34 +136,67 @@
       <screen x="60" y="-1080" width="1920" height="1040" />
     </state>
     <state x="749" y="-777" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586212543305" />
-    <state width="1323" height="18" key="GridCell.Tab.0.bottom" timestamp="1586274872211">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="18" key="GridCell.Tab.0.bottom/0.0.1366.728/60.-1080.1920.1040@0.0.1366.728" timestamp="1586274872211" />
-    <state width="1877" height="18" key="GridCell.Tab.0.bottom/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586219993098" />
-    <state width="1323" height="18" key="GridCell.Tab.0.center" timestamp="1586274872211">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="18" key="GridCell.Tab.0.center/0.0.1366.728/60.-1080.1920.1040@0.0.1366.728" timestamp="1586274872211" />
-    <state width="1877" height="18" key="GridCell.Tab.0.center/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586219993098" />
-    <state width="1323" height="18" key="GridCell.Tab.0.left" timestamp="1586274872211">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="18" key="GridCell.Tab.0.left/0.0.1366.728/60.-1080.1920.1040@0.0.1366.728" timestamp="1586274872211" />
-    <state width="1877" height="18" key="GridCell.Tab.0.left/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586219993098" />
-    <state width="1323" height="18" key="GridCell.Tab.0.right" timestamp="1586274872211">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="18" key="GridCell.Tab.0.right/0.0.1366.728/60.-1080.1920.1040@0.0.1366.728" timestamp="1586274872211" />
-    <state width="1877" height="18" key="GridCell.Tab.0.right/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586219993098" />
-    <state x="521" y="-918" key="SettingsEditor" timestamp="1586218340696">
+    <state x="800" y="-806" key="FileChooserDialogImpl" timestamp="1588030558105">
       <screen x="60" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="521" y="-918" key="SettingsEditor/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586218340696" />
+    <state x="800" y="-806" key="FileChooserDialogImpl/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1588030558105" />
+    <state width="1877" height="160" key="GridCell.Tab.0.bottom" timestamp="1588034240158">
+      <screen x="60" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="18" key="GridCell.Tab.0.bottom/0.0.1366.728/60.-1080.1920.1040@0.0.1366.728" timestamp="1586274872211" />
+    <state width="1877" height="160" key="GridCell.Tab.0.bottom/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1588034240158" />
+    <state width="1877" height="160" key="GridCell.Tab.0.center" timestamp="1588034240158">
+      <screen x="60" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="18" key="GridCell.Tab.0.center/0.0.1366.728/60.-1080.1920.1040@0.0.1366.728" timestamp="1586274872211" />
+    <state width="1877" height="160" key="GridCell.Tab.0.center/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1588034240158" />
+    <state width="1877" height="160" key="GridCell.Tab.0.left" timestamp="1588034240158">
+      <screen x="60" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="18" key="GridCell.Tab.0.left/0.0.1366.728/60.-1080.1920.1040@0.0.1366.728" timestamp="1586274872211" />
+    <state width="1877" height="160" key="GridCell.Tab.0.left/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1588034240158" />
+    <state width="1877" height="160" key="GridCell.Tab.0.right" timestamp="1588034240158">
+      <screen x="60" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="18" key="GridCell.Tab.0.right/0.0.1366.728/60.-1080.1920.1040@0.0.1366.728" timestamp="1586274872211" />
+    <state width="1877" height="160" key="GridCell.Tab.0.right/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1588034240158" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1586812027271">
+      <screen x="60" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586812027271" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1586812027270">
+      <screen x="60" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586812027270" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1586812027270">
+      <screen x="60" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586812027270" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1586812027270">
+      <screen x="60" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586812027270" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1586788060771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728/60.-1080.1920.1040@0.0.1366.728" timestamp="1586788060771" />
+    <state x="521" y="-918" key="SettingsEditor" timestamp="1588030706105">
+      <screen x="60" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="521" y="-918" key="SettingsEditor/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1588030706105" />
+    <state x="593" y="-813" key="com.intellij.ide.util.TipDialog" timestamp="1588025593137">
+      <screen x="60" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/60.-1080.1920.1040@0.0.1366.728" timestamp="1587049350168" />
+    <state x="593" y="-813" key="com.intellij.ide.util.TipDialog/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1588025593137" />
     <state x="791" y="-858" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586212709891">
       <screen x="60" y="-1080" width="1920" height="1040" />
     </state>
     <state x="791" y="-858" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586212709891" />
+    <state x="750" y="-805" key="extract.method.dialog" timestamp="1586806044970">
+      <screen x="60" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="750" y="-805" key="extract.method.dialog/0.0.1366.728/60.-1080.1920.1040@60.-1080.1920.1040" timestamp="1586806044970" />
     <state x="676" y="-299" key="run.anything.popup" timestamp="1586211634200">
       <screen x="60" y="-1080" width="1920" height="1040" />
     </state>
